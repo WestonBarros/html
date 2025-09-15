@@ -1,0 +1,179 @@
+*{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+   font-family: "Montserrat", sans-serif;
+   font-optical-sizing: auto;
+   font-style: normal;
+
+
+div {
+   display: inline-block;
+}
+
+.classe{
+   width: 60%vw;
+   display: inline-block;
+}
+
+.classe1 {
+   color: #989D9C;
+   font-size: 24px;
+   font-style: normal;
+   font-weight: 600;
+   line-height: normal;
+   margin: 30px 20px 0 40px;
+}
+
+a {
+   margin-left: 15px;
+}
+
+.classe2 {
+   width: 130px;
+   height: 41px;
+   flex-shrink: 0;
+   border-radius: 20.5px;
+   background: #665AE1;
+   color: #FFF;
+   font-size: 24px;
+   font-weight: 600;
+   line-height: normal;
+   border: none;
+   margin-left: 15px;
+
+}
+
+img {
+   display: inline-block;
+   width: 568px;
+   height: 500px;
+   margin-top: 100px;
+   margin-left: 90px;
+}
+
+.classe3 {
+   display: inline-block;
+   top: 100px;
+
+}
+
+h1 {
+   color: #515151;
+   font-size: 100px;
+   font-weight: 900;
+   line-height: normal;
+}
+
+h2 {
+   color: #515151;
+   font-size: 58px;
+   font-weight: 500;
+   line-height: normal;
+}
+
+p {
+   color: #848484;
+   font-size: 24px;
+   font-weight: 400;
+   line-height: normal;
+   line-height: 29px;
+   width: 514px;
+}
+
+button {
+   width: 239px;
+   height: 64px;
+   flex-shrink: 0;
+   border-radius: 20.5px;
+   background: #ADFF00;
+   width: 125px;
+   height: 30px;
+   flex-shrink: 0;color: #000;
+   font-size: 15px;
+   font-weight: 700;
+   line-height: normal;
+   cursor: pointer;
+   margin-top: 30px;
+   border: none;
+
+}
+
+@media screen and (max-width:900px) {
+   .classe {
+      display: block;
+   }  
+
+
+
+   .classe {
+      display: block;
+   }
+   
+   .classe1 {
+      display: none;
+   }
+
+   .classe2 {
+      display: none;
+   }
+
+   img {
+      width: 354px;
+      height: 317px;
+      display: block;
+      text-align: center;
+      margin-left: 25px;
+   }
+
+   .classe3 {
+      display: block;
+      text-align: center;
+   }
+
+   h1 {
+      
+      height: 52px;
+      color: #515151;
+      font-size: 50px;
+      font-weight: 900;
+      line-height: normal;
+      
+   }
+
+   h2 {
+      color: #515151;
+      font-size: 30px;
+      font-weight: 500;
+      line-height: normal;
+      
+   }
+
+   p {
+      display: none;
+   }
+
+   button {
+      width: 239px;
+      height: 64px;
+      flex-shrink: 0;
+      font-size: 15px;
+      border-radius: 20.5px;
+      background: #ADFF00;
+      
+
+   }
+
+}
+
+@media screen and (max-width:500px){
+   .classe {
+     text-align: center;
+
+   }
+}
+
+
+
+}
+
