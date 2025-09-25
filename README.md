@@ -8,5 +8,7 @@
 <img src="https://raw.githubusercontent.com/WestonBarros/html/6274c44ef30c19075d2961328c815c4c94c119e0/img/Captura%20de%20tela%202025-09-25%20175646.png" alt="logo-imagem"/>
 <br/>
 <br/>
-<img src="" alt="logo-imagem"/>
+<img src="https://raw.githubusercontent.com/WestonBarros/html/6274c44ef30c19075d2961328c815c4c94c119e0/img/Captura%20de%20tela%202025-09-25%20175611.png" alt="logo-imagem"/>
+<br/>
+
 
